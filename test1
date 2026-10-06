@@ -1,5 +1,8 @@
 Start!
 Second Edit
 Third Edit
+<<<<<<< HEAD
 Fourth Edit
 Fifth Edit
+=======
+>>>>>>> f59c9c4 (Revert "Fourth Edit")
